@@ -1,0 +1,17 @@
+{
+  "name": "laba1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run_task1": "node task1.js -i input_task1.txt -o output_task1.txt",
+    "run_task2": "node task2.js -i input_task2.txt -o output_task2.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
