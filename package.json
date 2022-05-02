@@ -4,8 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run_task1": "node task1.js -i input_task1.txt -o output_task1.txt",
-    "run_task2": "node task2.js -i input_task2.txt -o output_task2.txt"
+    "run_task1_1": "node task1.js -i input_task1.txt -o output_task1.txt",
+    "run_task1_2": "node task1.js -i input_task1.txt",
+    "run_task1_3": "node task1.js -o output_task1.txt",
+    "run_task1_4": "node task1.js -o output_task1.txt -a zeronineoneoneeighttwoseventhreesixfourtwofive",
+    "run_task1_5": "node task1.js -a zeronineoneoneeighttwoseventhreesixfourtwofive",
+    "run_task1_6": "node task1.js",
+    "run_task2_1": "node task2.js -i input_task2.txt -o output_task2.txt",
+    "run_task2_2": "node task2.js -i input_task2.txt",
+    "run_task2_3": "node task2.js -o output_task2.txt",
+    "run_task2_4": "node task2.js -o output_task2.txt -a \"[[1, 2, 3], [3, 2, 1], [1, 1, 1]]:[[2, 2, 1], [3, 2, 3], [1, 1, 3]]\"",
+    "run_task2_5": "node task2.js -a \"[[1, 2, 3], [3, 2, 1], [1, 1, 1]]:[[2, 2, 1], [3, 2, 3], [1, 1, 3]]\"",
+    "run_task2_6": "node task2.js"
   },
   "keywords": [],
   "author": "",
